@@ -1,0 +1,28 @@
+{
+  "name": "bot-bate-ponto-rota",
+  "version": "1.0.0",
+  "description": "Bot de bate-ponto para Discord com GIF da rota",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "setup": "node setup.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^16.6.1",
+    "moment": "^2.29.4",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "bate-ponto",
+    "rota"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT"
+}
