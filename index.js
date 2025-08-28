@@ -34,7 +34,7 @@ db.serialize(() => {
 });
 
 // Configurações fixas
-const DISCORD_TOKEN = 'MTQwMjY2MDcwNjEzMzc0MTU2OA.Gkp1V3.0TWjxXd6hJxJvizvnrsZ6SSok-NntDHUVSMtYc';
+const DISCORD_TOKEN = 'MTQwMjY2MDcwNjEzMzc0MTU2OA.GlIRrO.VEawZAU-4PtBO0DqYTwJhHSReozWQf5YluEdN4';
 const GUILD_ID = '1356825632427868250';
 const CANAL_VOZ_OBRIGATORIO = '🚓・de Serviço';
 const CANAL_PONTO_ID = '1356825634936193193';
